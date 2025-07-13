@@ -12,10 +12,6 @@ Yujia Li<sup>1</sup>, Tao Zhou<sup>1</sup>, Ruixuan Wang<sup>2</sup>, Shuo Wang<
 
 </div>
 
-https://github.com/LYJ-NJUST/Seg-Quality-Control/blob/32dc4fff847c5c34bcebd9b34800b3b5cd82394e/assets/demo.mp4
-
-This clip is not intended for commercial use and is solely for academic demonstration in a research paper.
-
 ## Getting Started
 
 #### Framework Clone
