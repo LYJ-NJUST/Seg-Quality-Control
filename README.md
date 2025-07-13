@@ -36,7 +36,7 @@ pip install opencv-python scipy shutil json gc
 
 Please place the frame sequence and the original segmentation masks from the polyp segmentation model into the `frames` folder and `origin_masks` folder under the `example` directory, respectively.
 
-#### Exanple
+#### Execution Exanple
 ```
 python example.py 
 ```
