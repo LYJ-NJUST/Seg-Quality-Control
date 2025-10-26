@@ -53,5 +53,11 @@ Please consider citing our paper and the wonderful `SAM 2` if you found our work
   year={2024}
 }
 
-@todo
-```
+@inproceedings{li2025unsupervised,
+  title={Unsupervised Quality Control and Enhancement of Polyp Segmentation in Colonoscopy Videos Using Spatiotemporal Consistency},
+  author={Li, Yujia and Zhou, Tao and Wang, Ruixuan and Wang, Shuo and Zhang, Yizhe},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={605--614},
+  year={2025},
+  organization={Springer}
+}
